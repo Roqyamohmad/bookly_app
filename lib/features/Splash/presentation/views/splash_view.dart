@@ -1,5 +1,4 @@
 import 'package:bookly_app/features/Splash/presentation/views/widget/splash_view_body.dart';
-import 'package:bookly_app/features/home/presentation/views/home_view.dart';
 import 'package:flutter/material.dart';
 
 class SplashView extends StatefulWidget {
